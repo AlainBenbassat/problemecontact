@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/prenomsdifferents</path>
+    <page_callback>CRM_Problemecontact_Page_PrenomsDifferents</page_callback>
+    <title>PrenomsDifferents</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
